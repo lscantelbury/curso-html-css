@@ -1,9 +1,18 @@
 body{
     background: #CCCCCC;
 }
-em strong{
-    color: rgba(52, 168, 17, 0.959);
+
+h1 {
+    text-align: center;
 }
 p {
     text-align: center;
+}
+
+#missao{
+    font-size: 20px;
+}
+
+em strong{
+    color: rgba(52, 168, 17, 0.959);
 }

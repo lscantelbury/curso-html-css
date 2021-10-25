@@ -1,5 +1,14 @@
 body{
-    background: #CCCCCC;
+}
+
+.principal{
+	padding: 30px;
+	background: #CCCCCC;
+}
+
+.banner{
+	text-align: center;
+	width=100%;
 }
 
 h1 {
@@ -13,6 +22,21 @@ p {
     font-size: 20px;
 }
 
+
 em strong{
     color: rgba(52, 168, 17, 0.959);
 }
+
+.beneficios{
+	padding: 20px;
+	background: #FFFFFF;
+}
+h2 {
+	text-align: center;
+}
+
+ul{
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;

@@ -1,4 +1,5 @@
-body {
+.titulo-principal{
+	padding: 50px;
 }
 
 .principal {
@@ -14,6 +15,15 @@ body {
 h1 {
   text-align: center;
 }
+.titulo-centralizado{
+	text-align: center;
+}
+
+.banner{
+	text-align: center;
+	width:100%;
+}
+
 p {
   text-align: center;
 }
@@ -33,7 +43,6 @@ em strong {
 h2 {
   text-align: center;
 }
-
 ul {
   display: inline-block;
   vertical-align: top;

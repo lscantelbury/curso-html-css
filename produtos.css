@@ -1,0 +1,15 @@
+header{
+	background: #BBBBBB;
+}
+nav li{
+	display: inline;
+	margin: 0 0 0 15px;
+}
+nav a{
+	text-transform: uppercase; /*deixa maiusculo*/
+	color: #000000;/*muda a cor para preto*/
+	font-weight: bold;/*deixa a fonte em negrito*/
+	font-size: 22px;/*muda o tamanho para 22 pixels*/
+	text-decoration: none;/*retira o link sublinhado*/
+	padding-left: 20px;
+}
